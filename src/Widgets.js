@@ -893,7 +893,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                     </div>
                     
-                    <img class="direct-chat-img" src="../dist/img/user3-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user3-128x128.jpg" alt="Message User Image" />
                    
                     <div class="direct-chat-text">
                       You better believe it!
@@ -909,7 +909,7 @@ function Widgets() {
                   <ul class="contacts-list">
                     <li>
                       <a href="#">
-                        <img class="contacts-list-img" src="../dist/img/user1-128x128.jpg" />
+                        <img class="contacts-list-img" src="assets/dist/img/user1-128x128.jpg" />
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
@@ -972,7 +972,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
                     </div>
                     
-                    <img class="direct-chat-img" src="../dist/img/user1-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user1-128x128.jpg" alt="Message User Image" />
                    
                     <div class="direct-chat-text">
                       Is this template really for free? That's unbelievable!
@@ -986,7 +986,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                     </div>
                     
-                    <img class="direct-chat-img" src="../dist/img/user3-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user3-128x128.jpg" alt="Message User Image" />
                   
                     <div class="direct-chat-text">
                       You better believe it!
@@ -1002,7 +1002,7 @@ function Widgets() {
                   <ul class="contacts-list">
                     <li>
                       <a href="#">
-                        <img class="contacts-list-img" src="../dist/img/user1-128x128.jpg" />
+                        <img class="contacts-list-img" src="assets/dist/img/user1-128x128.jpg" />
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
@@ -1065,7 +1065,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
                     </div>
                    
-                    <img class="direct-chat-img" src="../dist/img/user1-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user1-128x128.jpg" alt="Message User Image" />
                    
                     <div class="direct-chat-text">
                       Is this template really for free? That's unbelievable!
@@ -1081,7 +1081,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                     </div>
                    
-                    <img class="direct-chat-img" src="../dist/img/user3-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user3-128x128.jpg" alt="Message User Image" />
                    
                     <div class="direct-chat-text">
                       You better believe it!
@@ -1097,7 +1097,7 @@ function Widgets() {
                   <ul class="contacts-list">
                     <li>
                       <a href="#">
-                        <img class="contacts-list-img" src="../dist/img/user1-128x128.jpg" />
+                        <img class="contacts-list-img" src="assets/dist/img/user1-128x128.jpg" />
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
@@ -1160,7 +1160,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-right">23 Jan 2:00 pm</span>
                     </div>
                    
-                    <img class="direct-chat-img" src="../dist/img/user1-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user1-128x128.jpg" alt="Message User Image" />
                    
                     <div class="direct-chat-text">
                       Is this template really for free? That's unbelievable!
@@ -1176,7 +1176,7 @@ function Widgets() {
                       <span class="direct-chat-timestamp float-left">23 Jan 2:05 pm</span>
                     </div>
                  
-                    <img class="direct-chat-img" src="../dist/img/user3-128x128.jpg" alt="Message User Image" />
+                    <img class="direct-chat-img" src="assets/dist/img/user3-128x128.jpg" alt="Message User Image" />
                   
                     <div class="direct-chat-text">
                       You better believe it!
@@ -1192,7 +1192,7 @@ function Widgets() {
                   <ul class="contacts-list">
                     <li>
                       <a href="#">
-                        <img class="contacts-list-img" src="../dist/img/user1-128x128.jpg" />
+                        <img class="contacts-list-img" src="assets/dist/img/user1-128x128.jpg" />
 
                         <div class="contacts-list-info">
                           <span class="contacts-list-name">
@@ -1238,7 +1238,7 @@ function Widgets() {
               
               <div class="widget-user-header bg-warning">
                 <div class="widget-user-image">
-                  <img class="img-circle elevation-2" src="../dist/img/user7-128x128.jpg" alt="User Avatar" />
+                  <img class="img-circle elevation-2" src="assets/dist/img/user7-128x128.jpg" alt="User Avatar" />
                 </div>
               
                 <h3 class="widget-user-username">Nadia Carmichael</h3>
@@ -1281,7 +1281,7 @@ function Widgets() {
                 <h5 class="widget-user-desc">Founder & CEO</h5>
               </div>
               <div class="widget-user-image">
-                <img class="img-circle elevation-2" src="../dist/img/user1-128x128.jpg" alt="User Avatar" />
+                <img class="img-circle elevation-2" src="assets/dist/img/user1-128x128.jpg" alt="User Avatar" />
               </div>
               <div class="card-footer">
                 <div class="row">
@@ -1321,12 +1321,12 @@ function Widgets() {
             <div class="card card-widget widget-user">
              
               <div class="widget-user-header text-white"
-                   style={{background: "url('../dist/img/photo1.png') center center"}}>
+                   style={{background: "url('assets/dist/img/photo1.png') center center"}}>
                 <h3 class="widget-user-username text-right">Elizabeth Pierce</h3>
                 <h5 class="widget-user-desc text-right">Web Designer</h5>
               </div>
               <div class="widget-user-image">
-                <img class="img-circle" src="../dist/img/user3-128x128.jpg" alt="User Avatar" />
+                <img class="img-circle" src="assets/dist/img/user3-128x128.jpg" alt="User Avatar" />
               </div>
               <div class="card-footer">
                 <div class="row">
@@ -1370,7 +1370,7 @@ function Widgets() {
             <div class="card card-widget">
               <div class="card-header">
                 <div class="user-block">
-                  <img class="img-circle" src="../dist/img/user1-128x128.jpg" alt="User Image" />
+                  <img class="img-circle" src="assets/dist/img/user1-128x128.jpg" alt="User Image" />
                   <span class="username"><a href="#">Jonathan Burke Jr.</a></span>
                   <span class="description">Shared publicly - 7:30 PM Today</span>
                 </div>
@@ -1387,7 +1387,7 @@ function Widgets() {
               </div>
             
               <div class="card-body">
-                <img class="img-fluid pad" src="../dist/img/photo2.png" alt="Photo" />
+                <img class="img-fluid pad" src="assets/dist/img/photo2.png" alt="Photo" />
 
                 <p>I took this photo this morning. What do you guys think?</p>
                 <button type="button" class="btn btn-default btn-sm"><i class="fas fa-share"></i> Share</button>
@@ -1398,7 +1398,7 @@ function Widgets() {
               <div class="card-footer card-comments">
                 <div class="card-comment">
                  
-                  <img class="img-circle img-sm" src="../dist/img/user3-128x128.jpg" alt="User Image" />
+                  <img class="img-circle img-sm" src="assets/dist/img/user3-128x128.jpg" alt="User Image" />
 
                   <div class="comment-text">
                     <span class="username">
@@ -1413,7 +1413,7 @@ function Widgets() {
                
                 <div class="card-comment">
                   
-                  <img class="img-circle img-sm" src="../dist/img/user4-128x128.jpg" alt="User Image" />
+                  <img class="img-circle img-sm" src="assets/dist/img/user4-128x128.jpg" alt="User Image" />
 
                   <div class="comment-text">
                     <span class="username">
@@ -1430,7 +1430,7 @@ function Widgets() {
           
               <div class="card-footer">
                 <form action="#" method="post">
-                  <img class="img-fluid img-circle img-sm" src="../dist/img/user4-128x128.jpg" alt="Alt Text" />
+                  <img class="img-fluid img-circle img-sm" src="assets/dist/img/user4-128x128.jpg" alt="Alt Text" />
                  
                   <div class="img-push">
                     <input type="text" class="form-control form-control-sm" placeholder="Press enter to post comment" />
@@ -1447,7 +1447,7 @@ function Widgets() {
             <div class="card card-widget">
               <div class="card-header">
                 <div class="user-block">
-                  <img class="img-circle" src="../dist/img/user1-128x128.jpg" alt="User Image" />
+                  <img class="img-circle" src="assets/dist/img/user1-128x128.jpg" alt="User Image" />
                   <span class="username"><a href="#">Jonathan Burke Jr.</a></span>
                   <span class="description">Shared publicly - 7:30 PM Today</span>
                 </div>
@@ -1477,7 +1477,7 @@ function Widgets() {
 
               
                 <div class="attachment-block clearfix">
-                  <img class="attachment-img" src="../dist/img/photo1.png" alt="Attachment Image" />
+                  <img class="attachment-img" src="assets/dist/img/photo1.png" alt="Attachment Image" />
 
                   <div class="attachment-pushed">
                     <h4 class="attachment-heading"><a href="http://www.lipsum.com/">Lorem ipsum text generator</a></h4>
@@ -1501,7 +1501,7 @@ function Widgets() {
               <div class="card-footer card-comments">
                 <div class="card-comment">
                 
-                  <img class="img-circle img-sm" src="../dist/img/user3-128x128.jpg" alt="User Image" />
+                  <img class="img-circle img-sm" src="assets/dist/img/user3-128x128.jpg" alt="User Image" />
 
                   <div class="comment-text">
                     <span class="username">
@@ -1516,7 +1516,7 @@ function Widgets() {
                
                 <div class="card-comment">
                
-                  <img class="img-circle img-sm" src="../dist/img/user5-128x128.jpg" alt="User Image" />
+                  <img class="img-circle img-sm" src="assets/dist/img/user5-128x128.jpg" alt="User Image" />
 
                   <div class="comment-text">
                     <span class="username">
@@ -1534,7 +1534,7 @@ function Widgets() {
              
               <div class="card-footer">
                 <form action="#" method="post">
-                  <img class="img-fluid img-circle img-sm" src="../dist/img/user4-128x128.jpg" alt="Alt Text" />
+                  <img class="img-fluid img-circle img-sm" src="assets/dist/img/user4-128x128.jpg" alt="Alt Text" />
                
                   <div class="img-push">
                     <input type="text" class="form-control form-control-sm" placeholder="Press enter to post comment" />
